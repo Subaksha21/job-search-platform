@@ -1,0 +1,53 @@
+/* frontend/src/App.css */
+
+.App {
+  text-align: center;
+  padding: 20px;
+  background-color: cadetblue;
+  background-image: url('C:\Users\DELL\OneDrive\Pictures\ii.jpg')
+
+}
+table{
+  background-color: #ebe6e6;
+}
+form {
+  margin: 20px 0;
+}
+
+input, textarea {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+  width: 80%;
+  max-width: 400px;
+}
+
+input[type="text"] {
+  width: 80%;
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  color: #3a3535;
+  cursor: pointer;
+}
+
+table {
+  margin: 20px auto;
+  width: 80%;
+  max-width: 800px;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid rgb(17, 16, 16);
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: rgb(129, 120, 120);
+}
